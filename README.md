@@ -3,8 +3,8 @@ DiaSlate
 
 
 
-Instruction to import project :
---------------------------------
+"Instruction to import project :"
+
 
 1) Download both the project.
 
