@@ -1,10 +1,10 @@
 DiaSlate
 ========
 
-code for slate application and UML drawer
 
 
 Instruction to import project :
+--------------------------------
 
 1) Download both the project.
 
